@@ -25,4 +25,6 @@ The Ranalyser has two versions: Matlab app and exective format.
 
 ---
 ## 4. Usage
+Instructions on how to use each version is available in the **[Ranalyser Usage](https://github.com/keitaroyamada/Ranalyser/wiki)**.
+
 ---
