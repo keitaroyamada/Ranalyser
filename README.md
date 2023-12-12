@@ -1,6 +1,6 @@
 # Ranalyser
 
-<img src="docs/ranalyser.png" width="500" >
+<img src=https://github.com/keitaroyamada/Ranalyser/assets/146403785/7ead1598-1b62-4aa8-a93c-c35ebb142ad1 width="500" >
 
 ---
 ## 1. About Ranalyser 
@@ -8,9 +8,14 @@ Ranalyser is a support app for Rgrains. This app allows us to fit statistical di
 
 ---
 ## 2. Requirements (test emvironments)
-- Windows 10, 11 (Intel)
-- Mac Sonoma 14.1.1 (Apple M1)
-- Matlab Runtime (Rgrains includes this online installer)
+- Matlab app version
+  - Matlab > 9.13
+  - statics and machine learning toolbox > 12.4
+
+- GUI version
+  - Windows 10, 11 (Intel)
+  - Mac Sonoma 14.1.1 (Apple M1)
+  - Matlab Runtime (Rgrains includes this online installer)
 
 ---
 ## 3. Install
