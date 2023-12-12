@@ -1,7 +1,6 @@
 # Ranalyser
 
-<img src=https://github.com/keitaroyamada/Ranalyser/assets/146403785/7ead1598-1b62-4aa8-a93c-c35ebb142ad1 width="500" >
-
+<img src=https://github.com/keitaroyamada/Ranalyser/assets/146403785/e0707736-4c84-480a-92cf-a2b0ed2e7a2f width="500" >
 ---
 ## 1. About Ranalyser 
 Ranalyser is a support app for Rgrains. This app allows us to fit statistical distribution or other measurement dataset.
