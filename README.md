@@ -10,13 +10,13 @@ Ranalyser is a support app for Rgrains. This app allows us to fit statistical di
 ---
 ## 2. Requirements (test emvironments)
 - Matlab app version
-  - Matlab > 9.13
-  - statics and machine learning toolbox > 12.4
+  - Matlab > 24.1
+  - Statics and machine learning toolbox > 24.1
+  - Optimization toolbox > 24.1
 
 - GUI version
-  - Windows 10, 11 (Intel)
-  - Mac Sonoma 14.1.1 (Apple M1)
-  - Matlab Runtime (Rgrains includes this online installer)
+  - Windows 11 (Intel)
+  - Matlab Runtime (Ranalyser includes this online installer)
 
 ---
 ## 3. Install
